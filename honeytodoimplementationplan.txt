@@ -1,0 +1,12 @@
+#Implentation Plan for To Do Project
+# Summary
+# What is the project?
+##
+# Why is this important?
+##
+# Who is involved?
+## Individual involvement
+# What is each person's role in this project?
+## Project Lead: Lillian Mead
+# What does the customer hope to achieve with this project?
+## Customer is seeking a way to automate their to-do list. The following are requirements from the customer are as follows: Create task list, be able to add a task to the list, remove or mark task as complete/not complete/reminder
